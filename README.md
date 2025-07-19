@@ -14,7 +14,7 @@
 
 ## Dataset
 - You can download dataset from this link.
-(https://github.com/user-attachments/files/21328365/loan.csv)
+[Download](https://github.com/user-attachments/files/21328365/loan.csv)
 
 ## Author
 Name - Kamran Majid
